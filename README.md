@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bogdan Janosevic</h1>
-<h3 align="center">A student of software engineering on Faculty of Technical Sciences in Serbia.</h3>
+<h3 align="center">A student of software engineering on Faculty of Technical Sciences in Novi Sad.</h3>
 
 - 🤝I love working on **Backend development**
   
