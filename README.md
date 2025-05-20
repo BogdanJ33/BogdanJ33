@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bogdan Janosevic</h1>
-<h3 align="center">A student of software engineering on Faculty of Technical Sciences in Novi Sad.</h3>
+<h3 align="center">Graduated with a Bachelor's degree in Software Engineering from the Faculty of Technical Sciences, University of Novi Sad. Currently pursuing a Master's degree in Artificial Intelligence.</h3>
 
 - 🤝I love working on **Web development**
   
