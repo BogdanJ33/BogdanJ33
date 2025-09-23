@@ -3,7 +3,7 @@
 
 - 🤝I love working on **Web development**
   
-- 🌱 For my web development projects I used: **Java spring and ASP.NET web API for backend and Angular for frontend**
+- 🌱 For my web development projects I used: **ASP.NET web API and Java spring for backend and Angular for frontend**
 
 - 📫 How to reach me **bogdanjanosevic@gmail.com**
 
