@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bogdan Janosevic</h1>
 <h3 align="center">Graduated with a Bachelor's degree in Software Engineering from the Faculty of Technical Sciences, University of Novi Sad. Currently pursuing a Master's degree in Artificial Intelligence.</h3>
-
-- 🤝I love working on **Web development**
   
-- 🌱 For my web development projects I used: **ASP.NET web API and Java spring for backend and Angular for frontend**
+- 🌱 For my projects I used: **ASP.NET web API and Java spring for backend and Angular for frontend**
 
 - 📫 How to reach me **bogdanjanosevic@gmail.com**
 
